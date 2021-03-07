@@ -24,4 +24,5 @@ A lib LeafletJS é responsável pela construção e manipulação de mapas em Ja
 - **pegar icones free**: 
 	- https://mapicons.mapsmarker.com/markers/nature/natural-marvels/tree/
 	- https://www.flaticon.com/free-icons/map-marker
-- **pegar placeholders free**: - **pegar icones free**: https://placeholder.com
+- **pegar placeholders free**: : https://placeholder.com
+- **remove line breaks (geojson)**: https://removelinebreaks.net/
