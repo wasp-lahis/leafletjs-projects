@@ -11,7 +11,7 @@ var Stamen_Watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/w
 Stamen_Watercolor.addTo(mymap);
 
 var blackIcon = L.icon({		
-    iconUrl: 'map-marker.svg',
+    iconUrl: 'img/map-marker.svg',
     iconSize:     [32, 37], // put size of the icon
     iconAnchor:   [16, 37], // point of the icon which will correspond to marker's location
     popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
