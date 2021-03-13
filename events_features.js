@@ -39,7 +39,7 @@ coordinates.forEach(function(coords){
     var marker = L.marker(coords, {
         icon: blackIcon
     }).on('mousemove', function(e){
-        //console.log(e)
+        console.log(e)
         e.target.setIcon(redIcon)
     })    
     .on('mouseout', function(e){
